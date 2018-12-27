@@ -15,12 +15,20 @@ pokemon_q = {
     "chancey":"https://i.imgur.com/pRmtAN4.png",    
     "shelmet":"https://i.imgur.com/zvvT3Vb.png",
     "KlinKlang":"https://i.imgur.com/8YTfb2H.png",
+    "oranguru":"https://i.imgur.com/4f0DvxK.png",
+    "croagunk":"https://i.imgur.com/yzOjhI0.png",
+    "noivern":"https://i.imgur.com/LPx29ra.png",
+    "crabominable":"https://i.imgur.com/LgP2M1Q.png"
 }
 
 pokemon_a = {
     "chancey":"https://i.imgur.com/lcKPGWM.png",
     "shelmet":"https://i.imgur.com/E0qzGAq.png",
-    "KlinKlang":"https://i.imgur.com/wsNYVCp.png"
+    "KlinKlang":"https://i.imgur.com/wsNYVCp.png",
+    "oranguru":"https://i.imgur.com/TO5Zpo8.png",
+    "croagunk":"https://i.imgur.com/g83t16H.png",
+    "noivern":"https://i.imgur.com/8pmCkuj.png",
+    "crabominable":"https://i.imgur.com/VMQFPe3.png"
 }
 
 # picks a random pokemon and sends an sms requesting the user guess the pokemon
