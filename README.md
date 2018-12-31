@@ -4,7 +4,7 @@
 
 ### What is it?
 
-This is a sms game of who's that pokemon using Twilio's API
+This is a sms game of who's that pokemon using Twilio's sms API
 
 ### How do I use it?
 
